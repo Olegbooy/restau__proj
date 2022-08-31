@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/restau__proj/static/css/main.40d0206e.chunk.css",
+    "main.js": "/restau__proj/static/js/main.000d6f4a.chunk.js",
+    "main.js.map": "/restau__proj/static/js/main.000d6f4a.chunk.js.map",
+    "runtime-main.js": "/restau__proj/static/js/runtime-main.eda5f8d0.js",
+    "runtime-main.js.map": "/restau__proj/static/js/runtime-main.eda5f8d0.js.map",
+    "static/js/2.d53aad24.chunk.js": "/restau__proj/static/js/2.d53aad24.chunk.js",
+    "static/js/2.d53aad24.chunk.js.map": "/restau__proj/static/js/2.d53aad24.chunk.js.map",
+    "index.html": "/restau__proj/index.html",
+    "static/css/main.40d0206e.chunk.css.map": "/restau__proj/static/css/main.40d0206e.chunk.css.map",
+    "static/js/2.d53aad24.chunk.js.LICENSE.txt": "/restau__proj/static/js/2.d53aad24.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/restau__proj/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/restau__proj/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/restau__proj/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/restau__proj/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/restau__proj/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/restau__proj/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/restau__proj/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/restau__proj/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/restau__proj/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/restau__proj/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/restau__proj/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/restau__proj/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/restau__proj/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/restau__proj/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/restau__proj/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/restau__proj/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/restau__proj/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/restau__proj/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/restau__proj/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.d079f43f.svg": "/restau__proj/static/media/spoon.d079f43f.svg",
+    "static/media/welcome.d724eb98.png": "/restau__proj/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda5f8d0.js",
+    "static/js/2.d53aad24.chunk.js",
+    "static/css/main.40d0206e.chunk.css",
+    "static/js/main.000d6f4a.chunk.js"
+  ]
+}
